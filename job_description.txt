@@ -1,0 +1,6 @@
+Junior AI Engineer Intern (Remote, 3 months)
+
+You will build LLM applications and AI agents using Python.
+Requirements: Python, OOP, data structures, REST APIs, JSON, Git, GitHub,
+prompt engineering, machine learning basics.
+Good to have: LangChain or LangGraph, RAG and vector databases, AI agents.

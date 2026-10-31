@@ -1,0 +1,13 @@
+SAMPLE CANDIDATE
+B.Tech Information Technology, 2026
+
+SKILLS
+Python (functions, data structures, OOP), basics of machine learning, REST APIs and JSON,
+prompt engineering, Git and GitHub, HTML, CSS, SQL
+
+PROJECTS
+Student Management System - Built a Python application with OOP and a SQL database.
+Portfolio Website - Built a responsive website using HTML and CSS, hosted on GitHub.
+
+EDUCATION
+B.Tech Information Technology, CGPA 8.0

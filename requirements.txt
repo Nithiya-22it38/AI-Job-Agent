@@ -1,0 +1,4 @@
+google-genai>=2.0.0
+streamlit
+python-dotenv
+pypdf
