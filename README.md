@@ -53,7 +53,7 @@ streamlit run app.py
 - Add tests and deploy to Streamlit Community Cloud
 
 ## Screenshots
-_Add 2-3 screenshots here._
+<img width="1835" height="942" alt="image" src="https://github.com/user-attachments/assets/b6c2c9fd-d1b9-467f-bda1-81f3c3dd54fe" />
 
-## Demo
-_Add your demo video link here._
+
+
